@@ -1,5 +1,5 @@
 {
-  "name": "aws-dynamodb-crud-operations-in-nodejs",
+  "name": "dynamodb_cruds",
   "type": "module",
   "version": "1.0.0",
   "main": "index.js",
